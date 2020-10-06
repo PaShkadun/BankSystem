@@ -1,0 +1,13 @@
+/home/dick/Документы/Project/BankSystem/bin/Debug/netcoreapp3.1/BankSystem
+/home/dick/Документы/Project/BankSystem/bin/Debug/netcoreapp3.1/BankSystem.deps.json
+/home/dick/Документы/Project/BankSystem/bin/Debug/netcoreapp3.1/BankSystem.runtimeconfig.json
+/home/dick/Документы/Project/BankSystem/bin/Debug/netcoreapp3.1/BankSystem.runtimeconfig.dev.json
+/home/dick/Документы/Project/BankSystem/bin/Debug/netcoreapp3.1/BankSystem.dll
+/home/dick/Документы/Project/BankSystem/bin/Debug/netcoreapp3.1/BankSystem.pdb
+/home/dick/Документы/Project/BankSystem/obj/Debug/netcoreapp3.1/BankSystem.csprojAssemblyReference.cache
+/home/dick/Документы/Project/BankSystem/obj/Debug/netcoreapp3.1/BankSystem.AssemblyInfoInputs.cache
+/home/dick/Документы/Project/BankSystem/obj/Debug/netcoreapp3.1/BankSystem.AssemblyInfo.cs
+/home/dick/Документы/Project/BankSystem/obj/Debug/netcoreapp3.1/BankSystem.csproj.CoreCompileInputs.cache
+/home/dick/Документы/Project/BankSystem/obj/Debug/netcoreapp3.1/BankSystem.dll
+/home/dick/Документы/Project/BankSystem/obj/Debug/netcoreapp3.1/BankSystem.pdb
+/home/dick/Документы/Project/BankSystem/obj/Debug/netcoreapp3.1/BankSystem.genruntimeconfig.cache
