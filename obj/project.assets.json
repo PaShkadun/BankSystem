@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/dick/Документы/Project/BankSystem/BankSystem.csproj",
+      "projectUniqueName": "/home/dick/Документы/BankSystem/BankSystem/BankSystem.csproj",
       "projectName": "BankSystem",
-      "projectPath": "/home/dick/Документы/Project/BankSystem/BankSystem.csproj",
+      "projectPath": "/home/dick/Документы/BankSystem/BankSystem/BankSystem.csproj",
       "packagesPath": "/home/dick/.nuget/packages/",
-      "outputPath": "/home/dick/Документы/Project/BankSystem/obj/",
+      "outputPath": "/home/dick/Документы/BankSystem/BankSystem/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/dick/.nuget/NuGet/NuGet.Config"
